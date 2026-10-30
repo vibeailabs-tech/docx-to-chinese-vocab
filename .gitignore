@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+output/
+*_gach_chan.txt
+.devin/
+/1. docx-underlined-words/
+/2. chinese-vocab-tsv*/
